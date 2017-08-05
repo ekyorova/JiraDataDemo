@@ -1,0 +1,45 @@
+Please choose data format - 1 for XML, 2 for JSON:1
+VIII 05, 2017 9:23:15 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:23:23 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:23:32 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:23:42 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:23:52 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:24:03 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:24:13 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:24:25 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:24:36 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:24:46 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:24:55 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:25:06 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:25:15 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:25:24 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:25:35 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:25:47 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:25:58 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:26:08 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:26:18 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 50 issues were retrieved!
+VIII 05, 2017 9:26:25 PM com.retriever.jira.JiraIssueRetriever getBasicInformation
+INFO: 6 issues were retrieved!
+VIII 05, 2017 9:26:26 PM com.retriever.jira.IssueRetrieverMain main
+INFO: All issues count: 956
+VIII 05, 2017 9:26:26 PM com.retriever.jira.JiraIssueFileSaver saveIssueDataInFile
+INFO: File was successfully created! - IssuesXML.xml
